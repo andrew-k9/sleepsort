@@ -2,7 +2,7 @@
  *
  *	Author		: Anderew
  *
- *	File		: Sleep Sort implimentation using threads
+ *	File		: sleepsort.h 	- implimentation using threads
  *
  *	Description : I haven't done anything with threading since my junior 
  *				  year of college, so why not do it for the stupidest 
@@ -15,8 +15,8 @@
 
 //
 // macros
-#define TOTAL_THREADS 5	// number of threads/ number of elements in the array
-#define PATH "/Users/andrewk/programs/c/sleepsort/temp.txt"
+#define TOTAL_THREADS 5			 // number of threads/ number of elements in the array
+#define PATH "path_to_text_file" // insert the path to your text file here
 
 /***********************************************************************
  *

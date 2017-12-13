@@ -1,3 +1,14 @@
+/***********************************************************************
+ *
+ *	Author		: Anderew
+ *
+ *	File		: main.c 	- main of program
+ *
+ *	Description : Quick example of how it works. Change here to test out
+ *				  how long this can take. Default uses the coppy
+ *				  method of sleepsort.
+ *	
+ ************************************************************************/
 #include <stdio.h>
 
 #include "sleepsort.h"
